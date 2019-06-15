@@ -1,3 +1,5 @@
+//https://tproger.ru/translations/react-basic-weather-app/
+
 import React from "react"
 import WeatherDisplay from "./WeatherDisplay.js"
 import "./App.css"
